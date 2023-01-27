@@ -87,7 +87,7 @@
       <img src="../src/2.png" alt="logo" style="width: 50%" />
       <p style="margin: 0; color: white; font-size: 1.5em;">Create an account</p>
       <p style="margin: 0; color: white; font-size: 0.8em;">Make your style better !</p>
-      <form action="confirmotp.php" method="post" style="width: 84%">
+      <form action="./confirmotp.php" method="post" style="width: 84%">
         <div style="display: flex; min-width: 250px; width: 100%; justify-content: space-between; align-items: center;">
           <label style="color: white; font-size: 1.2em;">+ 62</label>
           <input type="text" id="noTelpon" name="noTelpon" style="
